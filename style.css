@@ -101,7 +101,37 @@ img {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
+.produto-card-h5 {
+    margin: 0px 0px 0px 0px;
+    font-size: 1.4em;
+}
 
+.produto-card-p {
+    font-size: 1.2em;
+}
+
+.preco-produto {
+    text-align: center;
+    font-weight: bolder;
+    font-size: 1.7em; 
+}
+
+.carrinho-produto {
+    width: 25px;
+    height: 25px;
+}
+
+.link-produto{
+    background-color: rgb(4, 213, 4);
+    padding: 21px 45px 15px 45px;
+    
+}
+
+.card-body-p {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
 
 
 
