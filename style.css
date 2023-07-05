@@ -3,17 +3,18 @@
 
 
 
-h5 {
+.h5-staff {
     font-family: Arial, Helvetica, sans-serif;
     font-weight: 800;
     background-color: rgb(196, 30, 30);
     
 }
 
-img {
+/*img {
     max-width: 100%;
     height: auto;
 }
+*/
 
 .empresa {
     max-width: 100%;
@@ -33,7 +34,7 @@ img {
     margin: 50px 0px 0px 80px;
 }
 
-.card-title {
+.card-title-staff {
     font: italic bolder 3em "Work Sans"
 
 }
@@ -47,13 +48,14 @@ img {
     color: rgb(255, 255, 255);
 }
 
-.card-text {
+.card-text-staff {
     text-indent: 2em;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.171);
     line-height: 1.2em;
     font-size: 2em;
     box-shadow: 2px 2px 2px black;
 }
+
 
 .img-circle {
     width: 220px;
@@ -101,37 +103,8 @@ img {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-.produto-card-h5 {
-    margin: 0px 0px 0px 0px;
-    font-size: 1.4em;
-}
 
-.produto-card-p {
-    font-size: 1.2em;
-}
 
-.preco-produto {
-    text-align: center;
-    font-weight: bolder;
-    font-size: 1.7em; 
-}
-
-.carrinho-produto {
-    width: 25px;
-    height: 25px;
-}
-
-.link-produto{
-    background-color: rgb(4, 213, 4);
-    padding: 21px 45px 15px 45px;
-    
-}
-
-.card-body-p {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
 
 
 
