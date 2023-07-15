@@ -112,8 +112,23 @@
     width: 33.00%;
   }
 
+.img-who-are {
+    margin: 0px 0px 0px 0px;
+    padding: 0px 0px 0px 0px;
+    border: 0px 0px 0px 0px;
+}
 
+.rounded-image {
+    max-width: 100%;
+    height: auto;
+    object-fit: contain;
+}
 
+@media (min-width: 992px) {
+    .rounded-image {
+      max-width: 70%;
+    }
+  }
 
 
 
